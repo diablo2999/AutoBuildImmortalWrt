@@ -53,7 +53,8 @@ PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
-PACKAGES="$PACKAGES xray-core hysteria luci-i18n-passwall-zh-cn"
+PACKAGES="$PACKAGES xray-core hysteria sing-box"
+PACKAGES="$PACKAGES luci-app-passwall2 luci-i18n-passwall2-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 
 
